@@ -1,5 +1,6 @@
-// Bijectiv - https://github.com/leonardoeloy/bijectiv
+// Bijectiv - A library for URL shortener encoding/decoding in Go
 // Copyright 2015 Leonardo Eloy
+// https://github.com/leonardoeloy/bijectiv
 // Algorithm based on http://stackoverflow.com/questions/742013/how-to-code-a-url-shortener
 
 package bijectiv
